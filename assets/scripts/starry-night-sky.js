@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const starCount = 45;  // Number of stars to create
+    const starCount = 50;  // Number of stars to create
 
     function createStar() {
         const star = document.createElement('div');
