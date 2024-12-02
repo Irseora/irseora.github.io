@@ -15,5 +15,6 @@ h1, h2, p {
 img {
     background: #fff;
     margin: 2px;
+    margin-bottom: 10px;
     padding: 5px 5px 30px;
 }
