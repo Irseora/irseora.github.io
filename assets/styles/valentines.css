@@ -1,0 +1,17 @@
+body {
+    background-color: #e6c9d4;
+    color: #880D1E;
+    font-family: 'Borel';
+}
+
+.borel-regular {
+    font-family: "Borel", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container {
+    background-color: #82636e32;
+    border: 1px dashed #880D1E;
+    border-radius: 10px;
+}
